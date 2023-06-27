@@ -1,5 +1,5 @@
 ### I designed a simple project made using html css and javascript
-javascript event and class addition and subtraction features are used
+Basic javascript codes were used while preparing this project.
 
 ## Screen
 ![](screen.gif)
